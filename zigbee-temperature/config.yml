@@ -1,4 +1,4 @@
-name: 'Aqara/Xiaomi Temperature 1.3'
-packageKey: 'xiaomi-temp'
+name: 'Aqara/Xiaomi Temperature 1.3-kjjo'
+packageKey: 'xiaomi-temp-kjjo'
 permissions:
   zigbee: {}
